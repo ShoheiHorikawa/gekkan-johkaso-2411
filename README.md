@@ -6,8 +6,8 @@
 
 <a href="https://colab.research.google.com/github/ShoheiHorikawa/gekkan-johkaso-2411/blob/main/examples/gekkan_johkaso_2411.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-[こちらの](https://github.com/ShoheiHorikawa/gekkan-johkaso-2411/blob/main/example/gekkan_johkaso_2411.ipynb) Preview画面で出力を確認することができます。  
-= You can view the example notebook [here](https://github.com/ShoheiHorikawa/gekkan-johkaso-2411/blob/main/example/gekkan_johkaso_2411.ipynb).
+[こちらの](https://github.com/ShoheiHorikawa/gekkan-johkaso-2411/blob/main/examples/gekkan_johkaso_2411.ipynb) Preview画面で出力を確認することができます。  
+= You can view the example notebook [here](https://github.com/ShoheiHorikawa/gekkan-johkaso-2411/blob/main/examples/gekkan_johkaso_2411.ipynb).
 
 ## Citations
 
